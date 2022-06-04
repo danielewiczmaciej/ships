@@ -1,0 +1,5 @@
+﻿  ships_simulator.cpp
+C:\Users\Maciej\source\repos\ships_simulator\ships_simulator\ships_simulator.cpp(377,39): warning C4101: 'shooting_ship': unreferenced local variable
+C:\Users\Maciej\source\repos\ships_simulator\ships_simulator\ships_simulator.cpp(624,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maciej\source\repos\ships_simulator\ships_simulator\ships_simulator.cpp(808,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ships_simulator.vcxproj -> C:\Users\Maciej\source\repos\ships_simulator\Debug\ships_simulator.exe
